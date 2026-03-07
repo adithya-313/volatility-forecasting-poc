@@ -1,0 +1,23 @@
+﻿{
+    "editor.quickSuggestions":  {
+                                    "comments":  "off",
+                                    "other":  "off",
+                                    "strings":  "off"
+                                },
+    "editor.parameterHints.enabled":  false,
+    "editor.acceptSuggestionOnCommitCharacter":  false,
+    "python.analysis.typeCheckingMode":  "off",
+    "editor.wordBasedSuggestions":  "off",
+    "editor.suggest.snippetsPreventQuickSuggestions":  false,
+    "editor.codeLens":  false,
+    "editor.unicodeHighlight.allowedCharacters":  {
+
+                                                  },
+    "editor.suggestSelection":  "first",
+    "editor.lightbulb.enabled":  "off",
+    "editor.acceptSuggestionOnEnter":  "off",
+    "editor.suggest.enabled":  false,
+    "editor.hover.enabled":  false,
+    "editor.inlineSuggest.enabled":  false,
+    "editor.suggestOnTriggerCharacters":  false
+}
